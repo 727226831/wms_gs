@@ -1,0 +1,346 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.storescontrol.lincon"
+4    android:versionCode="10"
+5    android:versionName="1.3.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+11-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:86:5-71
+11-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:86:22-68
+12    <uses-permission android:name="android.permission.READ_PROFILE" />
+12-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:87:5-71
+12-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:87:22-68
+13    <uses-permission android:name="android.permission.READ_CONTACTS" />
+13-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:88:5-72
+13-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:88:22-69
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:89:5-65
+14-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:89:22-62
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:90:5-67
+15-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:90:22-64
+16    <uses-permission android:name="android.permission.VIBRATE" />
+16-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:91:5-66
+16-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:91:22-63
+17    <uses-permission android:name="android.permission.FLASHLIGHT" />
+17-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:92:5-69
+17-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:92:22-66
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:93:5-81
+18-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:93:22-78
+19    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> <!-- 蓝牙权限 -->
+19-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:94:5-80
+19-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:94:22-77
+20    <uses-permission android:name="android.permission.READ_PHONE_STATE" /> <!-- 安卓6蓝牙权限，必须打开定位权限 -->
+20-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:95:5-75
+20-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:95:22-72
+21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+21-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:96:5-79
+21-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:96:22-76
+22    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+22-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:97:5-76
+22-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:97:22-73
+23    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+23-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:98:5-83
+23-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:98:22-80
+24    <uses-permission android:name="android.permission.BLUETOOTH" />
+24-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:99:5-68
+24-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:99:22-65
+25    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+25-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:100:5-74
+25-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:100:22-71
+26    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+26-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:101:5-81
+26-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:101:22-78
+27    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+27-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:102:5-79
+27-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:102:22-76
+28    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+28-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:103:5-89
+28-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:103:22-86
+29    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+29-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:105:5-78
+29-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:105:22-75
+30
+31    <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
+32    <uses-feature
+32-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:25:5-27:36
+33        android:name="android.hardware.camera"
+33-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:26:9-47
+34        android:required="false" />
+34-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:27:9-33
+35    <uses-feature
+35-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:28:5-30:36
+36        android:name="android.hardware.camera.front"
+36-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:29:9-53
+37        android:required="false" /> <!-- TODO replace above two with next line after Android 4.2 -->
+37-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:30:9-33
+38    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
+39    <uses-feature
+39-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:33:5-35:36
+40        android:name="android.hardware.camera.autofocus"
+40-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:34:9-57
+41        android:required="false" />
+41-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:35:9-33
+42    <uses-feature
+42-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:36:5-38:36
+43        android:name="android.hardware.camera.flash"
+43-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:37:9-53
+44        android:required="false" />
+44-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:38:9-33
+45    <uses-feature
+45-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:39:5-41:36
+46        android:name="android.hardware.screen.landscape"
+46-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:40:9-57
+47        android:required="false" />
+47-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:41:9-33
+48    <uses-feature
+48-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:42:5-44:36
+49        android:name="android.hardware.wifi"
+49-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:43:9-45
+50        android:required="false" />
+50-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:44:9-33
+51
+52    <application
+52-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:6:5-85:19
+53        android:name="com.lkrh.storescontrol.view.BaseApplication"
+53-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:7:9-45
+54        android:allowBackup="true"
+54-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:8:9-35
+55        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+55-->[androidx.core:core:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\2ffb88316df49107418be0872d7babe4\core-1.0.0\AndroidManifest.xml:22:18-86
+56        android:debuggable="true"
+57        android:hardwareAccelerated="true"
+57-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:9:9-43
+58        android:icon="@mipmap/ic_app"
+58-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:10:9-38
+59        android:label="@string/app_name"
+59-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:11:9-41
+60        android:networkSecurityConfig="@xml/network_security_config"
+60-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:12:9-69
+61        android:screenOrientation="portrait"
+61-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:13:9-45
+62        android:supportsRtl="true"
+62-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:14:9-35
+63        android:theme="@style/AppTheme.NoActionBar" >
+63-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:15:9-52
+64        <activity android:name="com.lkrh.storescontrol.view.LogisticsDistributionActivity" />
+64-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:16:9-81
+64-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:16:19-69
+65        <activity android:name="com.lkrh.storescontrol.view.MaterialOutActivity" />
+65-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:17:9-62
+65-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:17:19-59
+66        <activity android:name="com.lkrh.storescontrol.view.ClaimMaterialActivity" />
+66-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:18:9-64
+66-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:18:19-61
+67        <activity android:name="com.lkrh.storescontrol.view.ChartListActivity" />
+67-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:19:9-60
+67-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:19:19-57
+68        <activity android:name="com.lkrh.storescontrol.view.OrderChangeActivity" /> <!-- 配置APP ID -->
+68-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:20:9-62
+68-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:20:19-59
+69        <activity
+69-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:21:9-24:64
+70            android:name="com.tencent.bugly.beta.ui.BetaActivity"
+70-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:22:13-66
+71            android:configChanges="keyboardHidden|orientation|screenSize|locale"
+71-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:23:13-81
+72            android:theme="@android:style/Theme.Translucent" /> <!-- 配置APP版本号 -->
+72-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:24:13-61
+73        <activity android:name="com.lkrh.storescontrol.view.LoginActivity" >
+73-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:25:9-31:20
+73-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:25:19-53
+74            <intent-filter>
+74-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:26:13-30:29
+75                <action android:name="android.intent.action.MAIN" />
+75-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:27:17-69
+75-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:27:25-66
+76
+77                <category android:name="android.intent.category.LAUNCHER" />
+77-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:29:17-77
+77-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:29:27-74
+78            </intent-filter>
+79        </activity> <!-- 配置APP渠道号 -->
+80        <!-- 配置Bugly调试模式（true或者false） -->
+81        <activity android:name="com.lkrh.storescontrol.view.PortActivity" />
+81-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:33:9-55
+81-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:33:19-52
+82        <activity android:name="com.lkrh.storescontrol.view.IndexActivity" />
+82-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:34:9-56
+82-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:34:19-53
+83        <activity android:name="com.lkrh.storescontrol.view.ScanActivity" />
+83-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:35:9-55
+83-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:35:19-52
+84        <activity android:name="com.lkrh.storescontrol.view.PutListActivity" />
+84-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:36:9-58
+84-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:36:19-55
+85        <activity
+85-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:37:9-39:73
+86            android:name="com.lkrh.storescontrol.view.ProductionwarehousingActivity"
+86-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:38:13-63
+87            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
+87-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:39:13-70
+88        <activity android:name="com.lkrh.storescontrol.view.ProductionListActivity" />
+88-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:40:9-65
+88-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:40:19-62
+89        <activity android:name="com.lkrh.storescontrol.view.DetailListActivity" />
+89-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:41:9-61
+89-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:41:19-58
+90        <activity
+90-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:42:9-44:73
+91            android:name="com.lkrh.storescontrol.view.StockcheckActivity"
+91-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:43:13-52
+92            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
+92-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:44:13-70
+93        <activity android:name="com.lkrh.storescontrol.view.sale.DispatchActivity" />
+93-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:45:9-64
+93-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:45:19-61
+94        <activity android:name="com.lkrh.storescontrol.view.sale.DispatchdetailslistActivity" />
+94-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:46:9-75
+94-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:46:19-72
+95        <activity android:name="com.lkrh.storescontrol.view.PrintActivity" />
+95-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:47:9-56
+95-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:47:19-53
+96        <activity android:name="com.lkrh.storescontrol.view.declaration.ReportActivity" />
+96-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:48:9-69
+96-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:48:19-66
+97        <activity
+97-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:49:9-51:73
+98            android:name="com.lkrh.storescontrol.view.declaration.MaterialActivity"
+98-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:50:13-62
+99            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
+99-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:51:13-70
+100        <activity android:name="com.lkrh.storescontrol.view.declaration.ReportprintActivity" />
+100-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:52:9-74
+100-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:52:19-71
+101        <activity android:name="com.lkrh.storescontrol.view.declaration.UnqualifiedListActivity" />
+101-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:53:9-78
+101-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:53:19-75
+102        <activity android:name="com.lkrh.storescontrol.view.PurchaselistActivity" />
+102-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:54:9-63
+102-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:54:19-60
+103        <activity android:name="com.lkrh.storescontrol.view.confirm.ConfirmActivity" />
+103-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:55:9-66
+103-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:55:19-63
+104        <activity android:name="com.lkrh.storescontrol.view.test.AreaselectActivity" />
+104-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:56:9-66
+104-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:56:19-63
+105        <activity android:name="com.lkrh.storescontrol.view.test.TestlistActivity" />
+105-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:57:9-64
+105-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:57:19-61
+106        <activity android:name="com.lkrh.storescontrol.view.inspection.Inspectionlist2Activity" />
+106-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:58:9-77
+106-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:58:19-74
+107        <activity android:name="com.lkrh.storescontrol.view.test.TestActivity" />
+107-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:59:9-60
+107-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:59:19-57
+108        <activity android:name="com.lkrh.storescontrol.view.packinginspetion.PackingInspetionListActivity" />
+108-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:60:9-88
+108-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:60:19-85
+109        <activity android:name="com.lkrh.storescontrol.view.ProductionOrderActivity" />
+109-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:61:9-66
+109-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:61:19-63
+110        <activity android:name="com.lkrh.storescontrol.view.packinginspetion.PackingInspetionActivity" />
+110-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:62:9-84
+110-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:62:19-81
+111        <activity android:name="com.lkrh.storescontrol.view.BillListActivity" />
+111-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:63:9-59
+111-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:63:19-56
+112        <activity android:name="com.lkrh.storescontrol.view.BillDetailActivity" />
+112-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:64:9-61
+112-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:64:19-58
+113
+114        <meta-data
+114-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:66:9-68:42
+115            android:name="BUGLY_APPID"
+115-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:67:13-39
+116            android:value="8a29361815" />
+116-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:68:13-39
+117        <meta-data
+117-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:69:9-71:35
+118            android:name="BUGLY_APP_VERSION"
+118-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:70:13-45
+119            android:value="1.0" />
+119-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:71:13-32
+120        <meta-data
+120-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:72:9-74:36
+121            android:name="BUGLY_ENABLE_DEBUG"
+121-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:73:13-46
+122            android:value="true" />
+122-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:74:13-33
+123
+124        <provider
+124-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:76:9-84:20
+125            android:name="android.support.v4.content.FileProvider"
+125-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:77:13-67
+126            android:authorities="com.storescontrol.fileprovider"
+126-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:78:13-65
+127            android:exported="false"
+127-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:79:13-37
+128            android:grantUriPermissions="true" >
+128-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:80:13-47
+129            <meta-data
+129-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:81:13-83:54
+130                android:name="android.support.FILE_PROVIDER_PATHS"
+130-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:82:17-67
+131                android:resource="@xml/file_paths" />
+131-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:83:17-51
+132        </provider>
+133
+134        <activity
+134-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:47:9-53:63
+135            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+135-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:48:13-74
+136            android:clearTaskOnLaunch="true"
+136-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:49:13-45
+137            android:screenOrientation="sensorLandscape"
+137-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:50:13-56
+138            android:stateNotNeeded="true"
+138-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:51:13-42
+139            android:theme="@style/zxing_CaptureTheme"
+139-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:52:13-54
+140            android:windowSoftInputMode="stateAlwaysHidden" />
+140-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:53:13-60
+141
+142        <provider
+142-->[com.squareup.picasso:picasso:2.71828] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\334b52dca4b546403343199dcab3b7a5\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+143            android:name="com.squareup.picasso.PicassoProvider"
+143-->[com.squareup.picasso:picasso:2.71828] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\334b52dca4b546403343199dcab3b7a5\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+144            android:authorities="com.example.storescontrol.lincon.com.squareup.picasso"
+144-->[com.squareup.picasso:picasso:2.71828] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\334b52dca4b546403343199dcab3b7a5\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+145            android:exported="false" /> <!-- Custom FileProvider for 7.x -->
+145-->[com.squareup.picasso:picasso:2.71828] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\334b52dca4b546403343199dcab3b7a5\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+146        <provider
+146-->[com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:27:9-37:20
+147            android:name="com.tencent.bugly.beta.utils.BuglyFileProvider"
+147-->[com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:28:13-74
+148            android:authorities="com.example.storescontrol.lincon.fileProvider"
+148-->[com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:29:13-64
+149            android:exported="false"
+149-->[com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:30:13-37
+150            android:grantUriPermissions="true" >
+150-->[com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:31:13-47
+151            <meta-data
+151-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:81:13-83:54
+152                android:name="android.support.FILE_PROVIDER_PATHS"
+152-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:82:17-67
+153                android:resource="@xml/provider_paths" />
+153-->C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:83:17-51
+154        </provider> <!-- 配置tinker合成结果service -->
+155        <service
+155-->[com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:39:9-42:72
+156            android:name="com.tencent.bugly.beta.tinker.TinkerResultService"
+156-->[com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:40:13-77
+157            android:exported="false"
+157-->[com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:41:13-37
+158            android:permission="android.permission.BIND_JOB_SERVICE" />
+158-->[com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:42:13-69
+159    </application>
+160
+161</manifest>

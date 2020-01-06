@@ -1,0 +1,551 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:2:1-107:12
+INJECTED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:2:1-107:12
+INJECTED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:2:1-107:12
+INJECTED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:2:1-107:12
+MERGED from [androidx.databinding:databinding-adapters:3.5.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\053e9c87eb50abcf67189f50de43015e\databinding-adapters-3.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.5.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\d2a4a4674c12e64aea297b49a1101c84\databinding-runtime-3.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\cb634fe4b4d1fdfcd5255e485d30a0c1\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\4c712a943b3ef7b03236bd690992ba5a\appcompat-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:17:1-56:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\1964611a1907e3ea07b40ce4c516c284\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\334b52dca4b546403343199dcab3b7a5\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:2:1-45:12
+MERGED from [com.tencent.bugly:nativecrashreport:3.7.1] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\4fadf0d4f611e7df1de2a8a763e37d04\nativecrashreport-3.7.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\4f37a040d795d0eef135b10b20545e3f\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\d382ba9b8c9ea9d7b43a9cfaea0ecdf4\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\bbc51c53aec70aeae5178e82f15e817a\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\abc680e55824c418c024460e31034ed4\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\ba2af06f417607d7ef1ca9f201a0d139\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\bbfb1dc3f77ef69d606795da69c218f5\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\402e2fb3baa5e6ca3b4a0d7ccbd7cd5b\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\a6ce3afbff3f1ae3fa1fe13048b173d9\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\331f61861c2d3a925f2252286afb1f53\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f3997ce16a5c00ae84a772d300d0e1e8\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\04087833f388d5ffa97a080d757646c2\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\34085af895daa23049fd0af188e6a001\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\eb11c4797d5d5b24d5dcbbebe26babf4\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\31dc29ba3158cee4b1ca2bf2f6ff141b\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\435f1166e6a428a0025d9cd273cb35a2\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\2ffb88316df49107418be0872d7babe4\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\684c19030ab34291fff8f6b761838da8\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\07608d1ce0a2b5e25216bbe877b06158\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\ae8b971b40c132101f87c0e7d5e73037\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\420f294924962582b4c42c622af43461\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\9d52be8c254a228a91eaf05f51d52923\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\9093771a98b01557e81860f4122d7892\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\7ec682ca46f5c90ea9a9e0cba0c0310a\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\85b59553d84ac8d04663d7d81848664c\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:2:1-107:12
+INJECTED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:2:1-107:12
+INJECTED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:2:1-107:12
+	package
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:2:1-107:12
+		INJECTED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:2:1-107:12
+		INJECTED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:6:5-85:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\cb634fe4b4d1fdfcd5255e485d30a0c1\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\cb634fe4b4d1fdfcd5255e485d30a0c1\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:46:5-54:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:46:5-54:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\334b52dca4b546403343199dcab3b7a5\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\334b52dca4b546403343199dcab3b7a5\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:18:5-43:19
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:18:5-43:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\2ffb88316df49107418be0872d7babe4\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\2ffb88316df49107418be0872d7babe4\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\07608d1ce0a2b5e25216bbe877b06158\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\07608d1ce0a2b5e25216bbe877b06158\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:screenOrientation
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:13:9-45
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\2ffb88316df49107418be0872d7babe4\core-1.0.0\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:11:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:9:9-43
+	android:icon
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:10:9-38
+	android:allowBackup
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:15:9-52
+	android:networkSecurityConfig
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:12:9-69
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:7:9-45
+activity#com.lkrh.storescontrol.view.LogisticsDistributionActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:16:9-81
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:16:19-69
+activity#com.lkrh.storescontrol.view.MaterialOutActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:17:9-62
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:17:19-59
+activity#com.lkrh.storescontrol.view.ClaimMaterialActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:18:9-64
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:18:19-61
+activity#com.lkrh.storescontrol.view.ChartListActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:19:9-60
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:19:19-57
+activity#com.lkrh.storescontrol.view.OrderChangeActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:20:9-62
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:20:19-59
+activity#com.tencent.bugly.beta.ui.BetaActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:21:9-24:64
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:21:9-25:56
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:21:9-25:56
+	android:configChanges
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:23:13-81
+	android:theme
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:24:13-61
+	tools:replace
+		ADDED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:25:13-53
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:22:13-66
+activity#com.lkrh.storescontrol.view.LoginActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:25:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:29:27-74
+activity#com.lkrh.storescontrol.view.PortActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:33:9-55
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:33:19-52
+activity#com.lkrh.storescontrol.view.IndexActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:34:9-56
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:34:19-53
+activity#com.lkrh.storescontrol.view.ScanActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:35:9-55
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:35:19-52
+activity#com.lkrh.storescontrol.view.PutListActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:36:9-58
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:36:19-55
+activity#com.lkrh.storescontrol.view.ProductionwarehousingActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:37:9-39:73
+	android:windowSoftInputMode
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:39:13-70
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:38:13-63
+activity#com.lkrh.storescontrol.view.ProductionListActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:40:9-65
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:40:19-62
+activity#com.lkrh.storescontrol.view.DetailListActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:41:9-61
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:41:19-58
+activity#com.lkrh.storescontrol.view.StockcheckActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:42:9-44:73
+	android:windowSoftInputMode
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:44:13-70
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:43:13-52
+activity#com.lkrh.storescontrol.view.sale.DispatchActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:45:9-64
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:45:19-61
+activity#com.lkrh.storescontrol.view.sale.DispatchdetailslistActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:46:9-75
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:46:19-72
+activity#com.lkrh.storescontrol.view.PrintActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:47:9-56
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:47:19-53
+activity#com.lkrh.storescontrol.view.declaration.ReportActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:48:9-69
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:48:19-66
+activity#com.lkrh.storescontrol.view.declaration.MaterialActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:49:9-51:73
+	android:windowSoftInputMode
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:51:13-70
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:50:13-62
+activity#com.lkrh.storescontrol.view.declaration.ReportprintActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:52:9-74
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:52:19-71
+activity#com.lkrh.storescontrol.view.declaration.UnqualifiedListActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:53:9-78
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:53:19-75
+activity#com.lkrh.storescontrol.view.PurchaselistActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:54:9-63
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:54:19-60
+activity#com.lkrh.storescontrol.view.confirm.ConfirmActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:55:9-66
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:55:19-63
+activity#com.lkrh.storescontrol.view.test.AreaselectActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:56:9-66
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:56:19-63
+activity#com.lkrh.storescontrol.view.test.TestlistActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:57:9-64
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:57:19-61
+activity#com.lkrh.storescontrol.view.inspection.Inspectionlist2Activity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:58:9-77
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:58:19-74
+activity#com.lkrh.storescontrol.view.test.TestActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:59:9-60
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:59:19-57
+activity#com.lkrh.storescontrol.view.packinginspetion.PackingInspetionListActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:60:9-88
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:60:19-85
+activity#com.lkrh.storescontrol.view.ProductionOrderActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:61:9-66
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:61:19-63
+activity#com.lkrh.storescontrol.view.packinginspetion.PackingInspetionActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:62:9-84
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:62:19-81
+activity#com.lkrh.storescontrol.view.BillListActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:63:9-59
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:63:19-56
+activity#com.lkrh.storescontrol.view.BillDetailActivity
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:64:9-61
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:64:19-58
+meta-data#BUGLY_APPID
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:66:9-68:42
+	android:value
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:68:13-39
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:67:13-39
+meta-data#BUGLY_APP_VERSION
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:69:9-71:35
+	android:value
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:71:13-32
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:70:13-45
+meta-data#BUGLY_ENABLE_DEBUG
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:72:9-74:36
+	android:value
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:74:13-33
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:73:13-46
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:76:9-84:20
+	android:grantUriPermissions
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:80:13-47
+	android:authorities
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:78:13-65
+	android:exported
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:79:13-37
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:77:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:81:13-83:54
+	android:resource
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:83:17-51
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:82:17-67
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:86:5-71
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:86:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:87:5-71
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:87:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:88:5-72
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:88:22-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:89:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:22:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:89:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:90:5-67
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:11:5-67
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:90:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:91:5-66
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:91:22-63
+uses-permission#android.permission.FLASHLIGHT
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:92:5-69
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:92:22-66
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:93:5-81
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:14:5-81
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:93:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:94:5-80
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:94:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:95:5-75
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:95:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:96:5-79
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:12:5-79
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:96:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:97:5-76
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:13:5-76
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:97:22-73
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:98:5-83
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:15:5-83
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:15:5-83
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:98:22-80
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:99:5-68
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:99:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:100:5-74
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:100:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:101:5-81
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:101:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:102:5-79
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:102:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:103:5-89
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:103:22-86
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:105:5-78
+	android:name
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml:105:22-75
+uses-sdk
+INJECTED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml
+INJECTED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.5.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\053e9c87eb50abcf67189f50de43015e\databinding-adapters-3.5.0\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.5.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\053e9c87eb50abcf67189f50de43015e\databinding-adapters-3.5.0\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.5.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\d2a4a4674c12e64aea297b49a1101c84\databinding-runtime-3.5.0\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.5.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\d2a4a4674c12e64aea297b49a1101c84\databinding-runtime-3.5.0\AndroidManifest.xml:22:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\cb634fe4b4d1fdfcd5255e485d30a0c1\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\cb634fe4b4d1fdfcd5255e485d30a0c1\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\4c712a943b3ef7b03236bd690992ba5a\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\4c712a943b3ef7b03236bd690992ba5a\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\1964611a1907e3ea07b40ce4c516c284\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\1964611a1907e3ea07b40ce4c516c284\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\334b52dca4b546403343199dcab3b7a5\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\334b52dca4b546403343199dcab3b7a5\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.tencent.bugly:nativecrashreport:3.7.1] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\4fadf0d4f611e7df1de2a8a763e37d04\nativecrashreport-3.7.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:nativecrashreport:3.7.1] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\4fadf0d4f611e7df1de2a8a763e37d04\nativecrashreport-3.7.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\4f37a040d795d0eef135b10b20545e3f\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\4f37a040d795d0eef135b10b20545e3f\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\d382ba9b8c9ea9d7b43a9cfaea0ecdf4\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\d382ba9b8c9ea9d7b43a9cfaea0ecdf4\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\bbc51c53aec70aeae5178e82f15e817a\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\bbc51c53aec70aeae5178e82f15e817a\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\abc680e55824c418c024460e31034ed4\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\abc680e55824c418c024460e31034ed4\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\ba2af06f417607d7ef1ca9f201a0d139\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\ba2af06f417607d7ef1ca9f201a0d139\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\bbfb1dc3f77ef69d606795da69c218f5\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\bbfb1dc3f77ef69d606795da69c218f5\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\402e2fb3baa5e6ca3b4a0d7ccbd7cd5b\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\402e2fb3baa5e6ca3b4a0d7ccbd7cd5b\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\a6ce3afbff3f1ae3fa1fe13048b173d9\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\a6ce3afbff3f1ae3fa1fe13048b173d9\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\331f61861c2d3a925f2252286afb1f53\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\331f61861c2d3a925f2252286afb1f53\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f3997ce16a5c00ae84a772d300d0e1e8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f3997ce16a5c00ae84a772d300d0e1e8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\04087833f388d5ffa97a080d757646c2\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\04087833f388d5ffa97a080d757646c2\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\34085af895daa23049fd0af188e6a001\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\34085af895daa23049fd0af188e6a001\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\eb11c4797d5d5b24d5dcbbebe26babf4\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\eb11c4797d5d5b24d5dcbbebe26babf4\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\31dc29ba3158cee4b1ca2bf2f6ff141b\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\31dc29ba3158cee4b1ca2bf2f6ff141b\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\435f1166e6a428a0025d9cd273cb35a2\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\435f1166e6a428a0025d9cd273cb35a2\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\2ffb88316df49107418be0872d7babe4\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\2ffb88316df49107418be0872d7babe4\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\684c19030ab34291fff8f6b761838da8\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\684c19030ab34291fff8f6b761838da8\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\07608d1ce0a2b5e25216bbe877b06158\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\07608d1ce0a2b5e25216bbe877b06158\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\ae8b971b40c132101f87c0e7d5e73037\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\ae8b971b40c132101f87c0e7d5e73037\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\420f294924962582b4c42c622af43461\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\420f294924962582b4c42c622af43461\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\9d52be8c254a228a91eaf05f51d52923\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\9d52be8c254a228a91eaf05f51d52923\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\9093771a98b01557e81860f4122d7892\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\9093771a98b01557e81860f4122d7892\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\7ec682ca46f5c90ea9a9e0cba0c0310a\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\7ec682ca46f5c90ea9a9e0cba0c0310a\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\85b59553d84ac8d04663d7d81848664c\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\85b59553d84ac8d04663d7d81848664c\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml
+INJECTED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml
+		ADDED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\curry\Downloads\Android_aisound_exp1139_5de89431\sample\MyApplication\wms\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:29:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:34:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:37:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:39:5-41:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:41:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:40:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:42:5-44:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:44:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:43:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:47:9-53:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:50:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:49:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:51:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:53:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\56600c024772b8850f9f69512c95be00\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:48:13-74
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\334b52dca4b546403343199dcab3b7a5\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\334b52dca4b546403343199dcab3b7a5\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\334b52dca4b546403343199dcab3b7a5\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\334b52dca4b546403343199dcab3b7a5\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+provider#com.tencent.bugly.beta.utils.BuglyFileProvider
+ADDED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:27:9-37:20
+	android:grantUriPermissions
+		ADDED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:31:13-47
+	android:authorities
+		ADDED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:29:13-64
+	android:exported
+		ADDED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:30:13-37
+	tools:replace
+		ADDED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:32:13-74
+	android:name
+		ADDED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:28:13-74
+service#com.tencent.bugly.beta.tinker.TinkerResultService
+ADDED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:39:9-42:72
+	android:exported
+		ADDED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:41:13-37
+	android:permission
+		ADDED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:42:13-69
+	android:name
+		ADDED from [com.tencent.bugly:crashreport_upgrade:1.4.2] C:\Users\curry\.gradle\caches\transforms-2\files-2.1\f55d6f3a0cc7c428170a1d79ec21b56c\jetified-crashreport_upgrade-1.4.2\AndroidManifest.xml:40:13-77
